@@ -18,3 +18,6 @@ Make sure to have the following Python libraries installed:
 You can install the required libraries using pip:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+
+
+![Titanic data plot model](https://github.com/user-attachments/assets/9c3e4bcc-c070-4566-805f-108dfaeaf942)
