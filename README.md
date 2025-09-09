@@ -1,22 +1,57 @@
-# Python Machine Learning: Scikit-Learn Tutorial for Beginners
+# 🐍 Python Machine Learning: Scikit-Learn Tutorial for Beginners  
 
-## Overview
-This project demonstrates how to implement a machine learning model using the Titanic dataset. The goal is to predict passenger survival using various features, utilizing Scikit-Learn for model training and evaluation.
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)  
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5.0-orange.svg)](https://scikit-learn.org/stable/)  
+[![pandas](https://img.shields.io/badge/pandas-2.2.0-green.svg)](https://pandas.pydata.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 
-## Files
-- `main.py`: The main Python script containing the machine learning workflow.
-- `data.csv`: The Titanic dataset used for training and testing the model.
+---
 
-## Requirements
-Make sure to have the following Python libraries installed:
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
+## 📖 Overview  
+This project demonstrates how to implement a **machine learning model** using the **Titanic dataset**.  
+The objective is to **predict passenger survival** based on multiple features such as age, gender, and class.  
+It uses **Scikit-Learn** for training, evaluation, and model performance visualization.  
 
-You can install the required libraries using pip:
+---
+
+## 📂 Project Structure  
 ```bash
+.
+├── main.py       # Machine learning workflow
+├── data.csv      # Titanic dataset
+└── README.md     # Project documentation
+
+📦 Requirements
+
+Ensure the following Python libraries are installed:
+
+pandas
+
+numpy
+
+scikit-learn
+
+matplotlib
+
+seaborn
+
+Install dependencies with:
 pip install pandas numpy scikit-learn matplotlib seaborn
 
+🚀 Features
 
+Data preprocessing & feature engineering
+
+Model training with Scikit-Learn
+
+Survival prediction based on Titanic dataset
+
+Data visualization using Matplotlib & Seaborn
+
+📊 Example Output
+
+You’ll see metrics like accuracy, confusion matrix, and feature importance plots once you run the notebook/script.
+
+📜 License
+
+This project is licensed under the MIT License.
